@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.3.XML/Boletin7.3.XML.iml" filepath="$PROJECT_DIR$/Boletin7.3.XML/Boletin7.3.XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer1/Ejer1.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer1/Ejer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer10/Ejer10.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer10/Ejer10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer11/Ejer11.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer11/Ejer11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer2/Ejer2.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer2/Ejer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer3/Ejer3.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer3/Ejer3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer4/Ejer4.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer4/Ejer4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer5/Ejer5.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer5/Ejer5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer6/Ejer6.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer6/Ejer6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer7/Ejer7.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer7/Ejer7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.1/Ejer7.3.1.iml" filepath="$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.1/Ejer7.3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.2/Ejer7.3.2.iml" filepath="$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.2/Ejer7.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.3/Ejer7.3.3.iml" filepath="$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.3/Ejer7.3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.4/Ejer7.3.4.iml" filepath="$PROJECT_DIR$/Boletin7.3.XML/Ejer7.3.4/Ejer7.3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer8/Ejer8.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer8/Ejer8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boletin7.1/Ejer9/Ejer9.iml" filepath="$PROJECT_DIR$/Boletin7.1/Ejer9/Ejer9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen24/ExaEjer1/ExaEjer1.iml" filepath="$PROJECT_DIR$/Examen24/ExaEjer1/ExaEjer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen24/ExaEjer2/ExaEjer2.iml" filepath="$PROJECT_DIR$/Examen24/ExaEjer2/ExaEjer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen24/Examen24.iml" filepath="$PROJECT_DIR$/Examen24/Examen24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenAeropuerto/ExamenAeropuerto.iml" filepath="$PROJECT_DIR$/ExamenAeropuerto/ExamenAeropuerto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenSimpson/ExamenSimpson.iml" filepath="$PROJECT_DIR$/ExamenSimpson/ExamenSimpson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tema7.Acceso a Ficheros. Expresiones regulares y XML.iml" filepath="$PROJECT_DIR$/Tema7.Acceso a Ficheros. Expresiones regulares y XML.iml" />
+    </modules>
+  </component>
+</project>

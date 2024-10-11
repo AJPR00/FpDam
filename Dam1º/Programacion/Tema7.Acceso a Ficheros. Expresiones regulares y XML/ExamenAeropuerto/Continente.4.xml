@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<continetes>
+    <continente id="4">
+        <vuelo>
+                    
+        
+            <codigo>VUELO246</codigo>
+                    
+            <compania>African Airways</compania>
+                    
+            <hora_salida>11:00</hora_salida>
+                    
+            <destino>Johannesburgo</destino>
+                
+        </vuelo>
+    </continente>
+</continetes>

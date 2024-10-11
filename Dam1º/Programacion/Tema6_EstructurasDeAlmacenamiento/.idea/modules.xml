@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tema6_EstructurasDeAlmacenamiento.iml" filepath="$PROJECT_DIR$/Tema6_EstructurasDeAlmacenamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boletin6_1/boletin6_1.iml" filepath="$PROJECT_DIR$/boletin6_1/boletin6_1.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Sin_categorias>
+    <producto>
+                
+        
+        <nombre>Sudadera de Algodón</nombre>
+                
+        <precio>55.00</precio>
+                
+        <descripcion>Esta es una descripción muy corta.</descripcion>
+            
+    </producto>
+    <producto>
+                
+        
+        <nombre>Falda Plisada</nombre>
+                
+        <precio>29.99</precio>
+                
+        <descripcion>Falda corta plisada de verano.</descripcion>
+            
+    </producto>
+</Sin_categorias>

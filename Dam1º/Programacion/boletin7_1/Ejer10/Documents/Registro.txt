@@ -1,0 +1,21 @@
+F documento.txt
+F documento.txt
+F informe.pdf
+F archivo.csv
+F  datos.xl
+F imagen.jpg
+F tarea.docf
+S proyecto.ppt
+lista.xlsx
+prueba.sql
+F plan.tx
+F tarea1.doc
+D3 tarea2doc
+De.factura.pdf
+foto.jpg
+F informe1.pdf
+F informe2.pdf
+F registro.cs
+Fdatos1.xls
+Fdatos2.xls
+F examen.doc

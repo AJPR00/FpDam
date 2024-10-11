@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8134212-06de-4f66-8100-8fdd940d40a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/TemasRecuperacion/Tema3/src/RecuperacionEjercicios/Ejerc2/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/TemasRecuperacion/Tema3/src/RecuperacionEjercicios/Ejerc2/Producto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bcjDnGUQuFHmoc59TQN5ggeFL3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.MenuCuenaCredito.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Tema6_EstructurasDeAlmacenamiento.boletin6_1.ejer6.Principal.executor": "Run",
+    "Application.Tema6_EstructurasDeAlmacenamiento.boletin6_1.examen2022.Principal.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Alumno/Desktop/Programacion/TemasRecuperacion",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alumno\Desktop\Programacion\Tema6_EstructurasDeAlmacenamiento\boletin6_1\eXamenes\20222023\practica" />
+      <recent name="C:\Users\Alumno\Desktop\Programacion\Tema6_EstructurasDeAlmacenamiento\ejer5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tema6_EstructurasDeAlmacenamiento.boletin6_1.examen2022.Principal">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema6_EstructurasDeAlmacenamiento.ejer4.Main" />
+      <module name="Programacion2324" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema6_EstructurasDeAlmacenamiento.ejer4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenuCuenaCredito" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema5_ConceptoAvanzadosOPP.boletin5_1.ejerc1.MenuCuenaCredito" />
+      <module name="Programacion2324" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema5_ConceptoAvanzadosOPP.boletin5_1.ejerc1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema6_EstructurasDeAlmacenamiento.ejer3.Principal" />
+      <module name="Programacion2324" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema6_EstructurasDeAlmacenamiento.ejer3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tema6_EstructurasDeAlmacenamiento.boletin6_1.ejer6.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema6_EstructurasDeAlmacenamiento.boletin6_1.ejer6.Principal" />
+      <module name="Programacion2324" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema6_EstructurasDeAlmacenamiento.boletin6_1.ejer6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tema6_EstructurasDeAlmacenamiento.boletin6_1.examen2022.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tema6_EstructurasDeAlmacenamiento.boletin6_1.examen2022.Principal" />
+      <module name="Programacion2324" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tema6_EstructurasDeAlmacenamiento.boletin6_1.examen2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tema6_EstructurasDeAlmacenamiento.boletin6_1.examen2022.Principal" />
+        <item itemvalue="Application.Tema6_EstructurasDeAlmacenamiento.boletin6_1.ejer6.Principal" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.MenuCuenaCredito" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8134212-06de-4f66-8100-8fdd940d40a7" name="Changes" comment="" />
+      <created>1706521145009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706521145009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tema6_EstructurasDeAlmacenamiento/ejer3/Persona.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Tema6_EstructurasDeAlmacenamiento/boletin6_1/examen2022/Principal.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

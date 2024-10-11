@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Sin_categorias>
+    <producto>
+                
+        
+        <nombre>Chaqueta de Cuero</nombre>
+                
+        <precio>180.00</precio>
+                
+        <descripcion>Chaqueta de cuero clásica con estilo vintage. Perfecta para cualquier ocasión y resistente al paso del tiempo.</descripcion>
+            
+    </producto>
+    <producto>
+                
+        
+        <nombre>Zapatos Deportivos</nombre>
+                
+        <precio>210,75</precio>
+                
+        <descripcion>Zapatos deportivos ultraligeros con tecnología de amortiguación avanzada. Diseñados para mejorar el rendimiento atlético.</descripcion>
+            
+    </producto>
+</Sin_categorias>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<continetes>
+    <continente id="3">
+        <vuelo>
+                    
+        
+            <codigo>VUELO456</codigo>
+                    
+            <compania>American Airways</compania>
+                    
+            <hora_salida>10:30</hora_salida>
+                    
+            <destino>New York</destino>
+                
+        </vuelo>
+        <vuelo>
+                    
+        
+            <codigo>VUELO789</codigo>
+                    
+            <compania>North American Airlines</compania>
+                    
+            <hora_salida>16:20</hora_salida>
+                    
+            <destino>Los Angeles</destino>
+                
+        </vuelo>
+        <vuelo>
+                    
+        
+            <codigo>VUELO135</codigo>
+                    
+            <compania>South American Airways</compania>
+                    
+            <hora_salida>09:45</hora_salida>
+                    
+            <destino>Rio de Janeiro</destino>
+                
+        </vuelo>
+    </continente>
+</continetes>

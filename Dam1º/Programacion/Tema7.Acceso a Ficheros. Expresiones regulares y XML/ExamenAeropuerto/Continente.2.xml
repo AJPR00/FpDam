@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<continetes>
+    <continente id="2">
+        <vuelo>
+                    
+        
+            <codigo>VUELO789</codigo>
+                    
+            <compania>American Airways</compania>
+                    
+            <hora_salida>14:45</hora_salida>
+                    
+            <destino>Tokio</destino>
+                
+        </vuelo>
+    </continente>
+</continetes>

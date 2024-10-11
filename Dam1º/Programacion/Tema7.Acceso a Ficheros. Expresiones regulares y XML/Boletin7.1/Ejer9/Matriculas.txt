@@ -1,0 +1,20 @@
+Toyota 1234-ABC
+Ford Focus 1234-ABC
+BMW X5 - LMN456
+Honda Civic - DEF789
+Chevrolet Camaro 4574-GHI
+MercedesBenz C-Class 8123-JKL
+Jeep Grand Cherokee - MNO456
+Ford Explorer 1554-ABC
+Chevrolet Tahoe - STU012
+Volkswagen Golf - VWX345
+Kia Sorento 1234-ABC
+Hyundai Santa Fe - BCD901
+Nissan Rogue - EFG234
+Chevrolet Silverado - HIJ567
+Ford - KLM890
+Dodge Grand Caravan - NOP123
+Mazda CX-5 - QRS456
+Toyota Highlander - TUV789
+Subaru Outback - WXY012
+Chrysler Pacifica - ZAB345
