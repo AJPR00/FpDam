@@ -6,6 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.*;
+
 import static java.nio.file.Files.newBufferedReader;
 
 
@@ -24,6 +25,13 @@ public class BBDD {
         this.tablaCoches = new LinkedList<>();
     }
 
+    public List<String> getTablaCoches() {
+        return tablaCoches;
+    }
+
+    public boolean isRegistrado(String matricula) {
+        return tablaCoches.stream().anyMatch(l->l.startsWith(matricula));
+    }
 
     /**
      * Método que vuelca un .CSV en un .DAT
@@ -32,8 +40,9 @@ public class BBDD {
      * @param rutaIn
      */
 
-    public Set<String> cargarCSV(Path rutaIn) {
-        Set<String> setCargaCsv = new HashSet<>();
+    public void cargarCSV(Path rutaIn) {
+        Set<String> setCargaCsv = new HashSet<>(tablaCoches);
+        tablaCoches.clear();
 
        /* try (BufferedReader br = newBufferedReader(rutaIn);
              BufferedWriter bw = Files.newBufferedWriter(dondeGuardar, StandardCharsets.UTF_8, StandardOpenOption.CREATE, StandardOpenOption.APPEND)) {
@@ -78,25 +87,18 @@ public class BBDD {
             String linea;
             br.readLine();
             while ((linea = br.readLine()) != null) {
-                setCargaCsv.add(linea);
+                String pasaLinea = pasarFormatDAT(linea);
+                if (pasaLinea != null) setCargaCsv.add(pasaLinea);
             }
-
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+        tablaCoches.addAll(setCargaCsv);
 
-        guardarDAT(listFormatDAT(setCargaCsv));
-        return setCargaCsv;
-
-    }
-
-    public boolean isRegistrado(String matricula) {
-
-        return true;
     }
 
     public void guardarDAT(Collection<String> coleccion) {
-        try (BufferedWriter bw = Files.newBufferedWriter(dondeGuardar, StandardOpenOption.CREATE,StandardOpenOption.APPEND)) {
+        try (BufferedWriter bw = Files.newBufferedWriter(dondeGuardar, StandardOpenOption.CREATE, StandardOpenOption.APPEND)) {
             for (String src : coleccion) {
                 bw.write(src);
             }
@@ -105,23 +107,20 @@ public class BBDD {
         }
     }
 
-    public List<String> listFormatDAT(Collection<String> coleccion) {
-        List<String> formatADD = new LinkedList<>();
+    public void añadirMatricula(String coche, int pos){
+        String pasaLinea = pasarFormatDAT(coche);
+        if (pasaLinea != null) tablaCoches.add(pos,pasaLinea);
+    }
 
-        for (String src : coleccion) {
-            String[] palabras = src.split(",");
-            String matricula = "", marca = "", modelo = "";
-
-            if (palabras.length < 3 || palabras[0].isBlank() || palabras[1].isBlank() || palabras[2].isBlank()) {
-                continue; // En caso que cumpla se salta una iteracion del while
-            }
-
-            matricula = String.format("%-" + TAM_MATRICULA + "s", palabras[0]);
-            marca = String.format("%-" + TAM_MARCA + "s", palabras[1]);
-            modelo = String.format("%-" + TAM_MODELO + "s", palabras[2]);
-            formatADD.add(matricula + " " + marca + " " + modelo + "\n");
+    public String pasarFormatDAT(String src) {
+        String[] palabras = src.split(",");
+        if (palabras.length < 3 || palabras[0].isBlank() || palabras[1].isBlank() || palabras[2].isBlank()) {
+            return null; // En caso que cumpla se salta una
         }
 
-        return formatADD;
+        String matricula = String.format("%-" + TAM_MATRICULA + "s", palabras[0]);
+        String marca = String.format("%-" + TAM_MARCA + "s", palabras[1]);
+        String modelo = String.format("%-" + TAM_MODELO + "s", palabras[2]);
+        return matricula + " " + marca + " " + modelo + "\n";
     }
 }
