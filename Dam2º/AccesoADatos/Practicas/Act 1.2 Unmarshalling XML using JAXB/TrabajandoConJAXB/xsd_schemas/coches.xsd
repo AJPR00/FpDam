@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="coche">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="marca" type="xsd:string"/>
+                <xsd:element name="modelo" type="xsd:string" maxOccurs="10"/>
+                <xsd:element name="combustible" type="xsd:string"/>
+                <xsd:element name="cilindrada" type="xsd:string"/>
+                <xsd:element name="potencia" type="xsd:string"/>
+                <xsd:element name="transmision" type="xsd:string"/>
+                <xsd:element name="peso" type="xsd:string"/>
+                <xsd:element name="ancho" type="xsd:string"/>
+                <xsd:element name="alto" type="xsd:string"/>
+                <xsd:element name="largo" type="xsd:string"/>
+                <xsd:element name="deposito" type="xsd:string"/>
+                <xsd:element name="puertas" type="xsd:string"/>
+                <xsd:element name="baul" type="xsd:string"/>
+                <xsd:element name="velocidad" type="xsd:string"/>
+                <xsd:element name="precio" type="xsd:double"/>
+                <xsd:element name="descripcion" type="xsd:string"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

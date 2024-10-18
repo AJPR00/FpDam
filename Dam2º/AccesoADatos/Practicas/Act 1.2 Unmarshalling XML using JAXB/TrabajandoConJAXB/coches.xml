@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coches>
+    <coche>
+        <marca>Seat</marca>
+        <matricula>1234ABD</matricula>
+        <modelo>Leon</modelo>
+    </coche>
+    <coche>
+        <marca>Toyota</marca>
+        <matricula>4356BBC</matricula>
+        <modelo>Corolla</modelo>
+    </coche>
+</coches>

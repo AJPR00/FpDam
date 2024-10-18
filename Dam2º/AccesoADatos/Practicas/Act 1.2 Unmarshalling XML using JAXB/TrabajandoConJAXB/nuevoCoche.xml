@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coche>
+    <marca>Seat</marca>
+    <matricula>1234ABD</matricula>
+    <modelo>Leon</modelo>
+</coche>
